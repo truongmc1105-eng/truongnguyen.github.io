@@ -280,7 +280,8 @@ button {
 
 .hero-image {
     width: 100%;
-    aspect-ratio: 4 / 5;
+    height: 100%;
+    min-height: 500px;
 
     object-fit: cover;
 
